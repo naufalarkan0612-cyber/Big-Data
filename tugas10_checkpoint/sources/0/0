@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_stream/batch_1.csv","timestamp":1794359237792,"batchId":0}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_stream/batch_2.csv","timestamp":1794359244160,"batchId":0}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_stream/batch_3.csv","timestamp":1794359250267,"batchId":0}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_stream/batch_4.csv","timestamp":1794360452129,"batchId":0}

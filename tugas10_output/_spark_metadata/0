@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_output/part-00000-cf652b5c-aa43-4c7e-88b2-cf34f9d01d4d-c000.snappy.parquet","size":1943,"isDir":false,"modificationTime":1794360453654,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_output/part-00001-627d2089-9f28-45fc-9d3c-5de7f2ec6b69-c000.snappy.parquet","size":1945,"isDir":false,"modificationTime":1794360453654,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_output/part-00002-3e447ee4-aeef-4cf8-b497-4c344db7c6db-c000.snappy.parquet","size":1902,"isDir":false,"modificationTime":1794360453654,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/caitlyn/bigdata_praktikum/Post-UTS/tugas10_output/part-00003-867e0735-8721-4656-a16e-f454bea44783-c000.snappy.parquet","size":1899,"isDir":false,"modificationTime":1794360453654,"blockReplication":1,"blockSize":33554432,"action":"add"}
